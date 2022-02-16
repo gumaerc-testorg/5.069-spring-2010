@@ -5,8 +5,13 @@ description: 'Lecture presentation on symmetry in reciprocal space, Friedel''s l
   crystallographic directions for triclinic, monoclinic, orthorhombic and tetragonal
   systems, an introduction of the Patterson function and Harker sections, and direct
   methods for structure solution,'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-069-crystal-structure-analysis-spring-2010/39f977ce68f61579f826c4bcc2d8d763_phasing_handout2.pdf
+file: /media/courses/5-069-crystal-structure-analysis-spring-2010/39f977ce68f61579f826c4bcc2d8d763_phasing_handout2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Symmetry in reciprocal space
 uid: 39f977ce-68f6-1579-f826-c4bcc2d8d763

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 27876259-c47f-a096-e17b-298c9ee71666
 ---
@@ -181,7 +183,7 @@ Introduction of the phase problem
 
 Introduction of Friedel's law and laue groups
 
-Space group determination: |_E_2\-1| statistics, systematic absences, crystallographic directions for triclinic, monoclinic, orthorhombic and tetragonal systems
+Space group determination: |_E_{{< sup "2" >}}\-1| statistics, systematic absences, crystallographic directions for triclinic, monoclinic, orthorhombic and tetragonal systems
 
 Introduction of the Patterson function and Harker sections, as well as direct methods for structure solution
 
@@ -201,7 +203,7 @@ Student presentations of current homework assignment due two days after Lec #8
 
 ### Structure refinement
 
-Different types of electron density maps (_Fo_, _Fc_, _Fo_\-_Fc_, etc.)
+Different types of electron density maps (_F{{< sub "o" >}}_, _F{{< sub "c" >}}_, _F{{< sub "o" >}}_\-_F{{< sub "c" >}}_, etc.)
 
 Introduction of anisotropic displacement parameters
 

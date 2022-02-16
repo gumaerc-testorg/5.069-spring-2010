@@ -3,8 +3,13 @@ content_type: resource
 description: Lecture presentation on the geometry of diffraction, reciprocal space
   versus real space, and the Ewald construction as a geometric interpretation of Bragg's
   law.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-069-crystal-structure-analysis-spring-2010/32f2f6978c99ef9eb19adbc1e9479ff9_diffrac_handout2.pdf
+file: /media/courses/5-069-crystal-structure-analysis-spring-2010/32f2f6978c99ef9eb19adbc1e9479ff9_diffrac_handout2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Geometry of diffraction
 uid: 32f2f697-8c99-ef9e-b19a-dbc1e9479ff9
