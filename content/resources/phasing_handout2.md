@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 53c877cb-19eb-8ab1-b45d-04ea7fc5b412
 resourcetype: Document
 title: Symmetry in reciprocal space
 uid: 39f977ce-68f6-1579-f826-c4bcc2d8d763

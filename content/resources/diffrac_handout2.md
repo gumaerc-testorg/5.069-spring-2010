@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 53c877cb-19eb-8ab1-b45d-04ea7fc5b412
 resourcetype: Document
 title: Geometry of diffraction
 uid: 32f2f697-8c99-ef9e-b19a-dbc1e9479ff9

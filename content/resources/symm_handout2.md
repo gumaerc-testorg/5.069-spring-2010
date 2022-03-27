@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 53c877cb-19eb-8ab1-b45d-04ea7fc5b412
 resourcetype: Document
 title: Symmetry in 3D
 uid: 7725ffb4-bb9d-457b-a06a-e90d8e6d72e5
