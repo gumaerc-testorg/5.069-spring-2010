@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a list of lecture topics for the course along with
+  presentations from each lecture session.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 53c877cb-19eb-8ab1-b45d-04ea7fc5b412
 ---
@@ -24,7 +29,7 @@ TOPICS
 {{< tdopen >}}
 
 
-### Introduction ([PDF]({{< baseurl >}}/resources/intro_handout))
+### Introduction ({{% resource_link e5d3dc8d-cf0e-b97b-5f6f-93b91f2d3cd9 "PDF" %}})
 
 Overview, textbooks, history of crystallography
 
@@ -39,7 +44,7 @@ Overview, textbooks, history of crystallography
 {{< tdopen >}}
 
 
-### Symmetry in 2D ([PDF]({{< baseurl >}}/resources/symm_handout1_re))
+### Symmetry in 2D ({{% resource_link 78abdd72-d7c3-9088-1daa-08d7b4b72287 "PDF" %}})
 
 Definition of symmetry, introduction of symmetry operators
 
@@ -58,7 +63,7 @@ Combining symmetry operations and determination of plane groups
 {{< tdopen >}}
 
 
-### Symmetry in 3D ([PDF]({{< baseurl >}}/resources/symm_handout2))
+### Symmetry in 3D ({{% resource_link 7725ffb4-bb9d-457b-a06a-e90d8e6d72e5 "PDF" %}})
 
 Extension of the plane groups concept to the third dimension: space groups
 
@@ -79,7 +84,7 @@ The unit cell and crystallographic conventions
 {{< tdopen >}}
 
 
-### X-rays and matter ([PDF]({{< baseurl >}}/resources/diffrac_handout1))
+### X-rays and matter ({{% resource_link 248adb94-83f1-27b4-d815-fb4d06042e0a "PDF" %}})
 
 X-ray generation
 
@@ -100,7 +105,7 @@ Introduction of Bragg's law and Miller indices
 {{< tdopen >}}
 
 
-### Geometry of diffraction ([PDF]({{< baseurl >}}/resources/diffrac_handout2))
+### Geometry of diffraction ({{% resource_link 32f2f697-8c99-ef9e-b19a-dbc1e9479ff9 "PDF" %}})
 
 Reciprocal space vs. real space
 
@@ -136,7 +141,7 @@ Fourier transformation gives rise to electron density; crystallographic resoluti
 {{< tdopen >}}
 
 
-### Structure factors II ([PDF - 1.7MB]({{< baseurl >}}/resources/phasing_handout1))
+### Structure factors II ({{% resource_link 4af69dfc-8e3b-01a4-b119-3071c782234c "PDF - 1.7MB" %}})
 
 Complex numbers, Euler's equation and the argand plane
 
@@ -153,11 +158,11 @@ Introduction of the phase problem
 {{< tdopen >}}
 
 
-### Symmetry in reciprocal space ([PDF]({{< baseurl >}}/resources/phasing_handout2))
+### Symmetry in reciprocal space ({{% resource_link 39f977ce-68f6-1579-f826-c4bcc2d8d763 "PDF" %}})
 
 Introduction of Friedel's law and laue groups
 
-Space group determination: |_E_2\-1| statistics, systematic absences, crystallographic directions for triclinic, monoclinic, orthorhombic and tetragonal systems
+Space group determination: |_E_{{< sup "2" >}}\-1| statistics, systematic absences, crystallographic directions for triclinic, monoclinic, orthorhombic and tetragonal systems
 
 Introduction of the Patterson function and Harker sections, as well as direct methods for structure solution
 
@@ -172,9 +177,9 @@ Introduction of the Patterson function and Harker sections, as well as direct me
 {{< tdopen >}}
 
 
-### Structure refinement ([PDF]({{< baseurl >}}/resources/refine_hand1_rev))
+### Structure refinement ({{% resource_link 771d3645-0129-6a47-042f-135be5a56643 "PDF" %}})
 
-Different types of electron density maps (_Fo_, _Fc_, _Fo_\-_Fc_, etc.)
+Different types of electron density maps (_F{{< sub "o" >}}_, _F{{< sub "c" >}}_, _F{{< sub "o" >}}_\-_F{{< sub "c" >}}_, etc.)
 
 Introduction of anisotropic displacement parameters
 
@@ -212,7 +217,7 @@ Finding the hydrogen atoms, "riding model"
 {{< tdopen >}}
 
 
-### Anomalous scattering ([PDF]({{< baseurl >}}/resources/anomal_hand1_rev))
+### Anomalous scattering ({{% resource_link 1fb7075f-e175-265f-c8a2-b42ce540921f "PDF" %}})
 
 Absorption of X-ray photons leads to loss of symmetry in orbital geometry, which results in a violation of Fridel's law
 
