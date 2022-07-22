@@ -6,6 +6,7 @@ file: /courses/5-069-crystal-structure-analysis-spring-2010/4af69dfc8e3b01a4b119
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Structure factors II
 uid: 4af69dfc-8e3b-01a4-b119-3071c782234c
 ---
 Lecture presentation on structure factors, complex numbers, Euler's equation, the Argand plane, and the phase problem.
-
