@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on anomalous scattering, absorption of X-ray photons,
   loss of symmetry in orbital geometry, and the resulting violation of Fridel's law.
 file: /courses/5-069-crystal-structure-analysis-spring-2010/1fb7075fe175265fc8a2b42ce540921f_anomal_hand1_rev.pdf
+file_size: 724778
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
