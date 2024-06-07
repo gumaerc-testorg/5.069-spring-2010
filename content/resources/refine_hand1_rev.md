@@ -5,6 +5,7 @@ description: 'Lecture presentation on structure refinement, different types of e
   minimization functions: the least-squares approach and different R-factors, and
   crystallographic parameters, constraints, and restraints.'
 file: /courses/5-069-crystal-structure-analysis-spring-2010/771d364501296a47042f135be5a56643_refine_hand1_rev.pdf
+file_size: 597542
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
