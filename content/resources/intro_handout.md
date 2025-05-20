@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on the history of crystallography.
-file: /ol-ocw-studio-app/courses/5-069-crystal-structure-analysis-spring-2010/e5d3dc8dcf0eb97b5f6f93b91f2d3cd9_intro_handout.pdf
+file: /courses/5-069-crystal-structure-analysis-spring-2010/e5d3dc8dcf0eb97b5f6f93b91f2d3cd9_intro_handout.pdf
 file_size: 154776
 file_type: application/pdf
 learning_resource_types:
