@@ -3,7 +3,7 @@ content_type: resource
 description: 'Lecture presentation on extension of the plane groups concept to the
   third dimension: space groups, introduction of screw axes and glide planes, point
   groups versus space groups, and the unit cell and crystallographic conventions.'
-file: /courses/5-069-crystal-structure-analysis-spring-2010/7725ffb4bb9d457ba06ae90d8e6d72e5_symm_handout2.pdf
+file: /ol-ocw-studio-app/courses/5-069-crystal-structure-analysis-spring-2010/7725ffb4bb9d457ba06ae90d8e6d72e5_symm_handout2.pdf
 file_size: 956051
 file_type: application/pdf
 learning_resource_types:
